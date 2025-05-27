@@ -33,8 +33,8 @@ import youtube from "../assets/youtube.svg";
 import messenger from "../assets/messenger.svg";
 
 const heroapi = {
-  title: "Play With Electric Nike",
-  subtitle: "Adapt 2.0 Sneakers",
+  title: "Find What Suits You",
+  // subtitle: "Adapt 2.0 Sneakers",
   img: heroimg,
   btntext: "Explore Product",
   videos: [
@@ -351,7 +351,7 @@ const footerAPI = {
       {link: "News"},
       {link: "Careers"},
       {link: "Investors"},
-      {link: "Prupose"},
+      {link: "Purpose"},
       {link: "Sustainability"},
     ],
     [
