@@ -1,4 +1,4 @@
-import heroimg from "../assets/hero.png";
+import heroimg from "../assets/hero-image.png";
 
 import hightlightimg from "../assets/hightlightimg.png";
 import sneakershoe from "../assets/sneaker.png";
@@ -33,10 +33,9 @@ import youtube from "../assets/youtube.svg";
 import messenger from "../assets/messenger.svg";
 
 const heroapi = {
-  title: "Find What Suits You",
-  // subtitle: "Adapt 2.0 Sneakers",
+  title: "Find What Suits You!",
   img: heroimg,
-  btntext: "Explore Product",
+  btntext: "Explore Now",
   videos: [
     { imgsrc: vcover1, clip: clip },
     { imgsrc: vcover2, clip: clip },

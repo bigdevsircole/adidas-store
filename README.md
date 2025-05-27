@@ -5,7 +5,7 @@ This is a beginner-friendly eCommerce-style website inspired by Adidas, created 
 🛠️ Built With
 ⚡️ Vite – blazing fast frontend build tool
 
-🌐 HTML5, CSS3, JavaScript (Vanilla)
+🌐 HTML5, Tailwind CSS, JavaScript (Vanilla)
 
 🎨 Custom Adidas-themed design
 
